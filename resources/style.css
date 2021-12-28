@@ -1,0 +1,46 @@
+
+
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.banner {    
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.downloadlink {
+    text-align: center;
+}
+
+.downloadlink a{
+    color: aquamarine;
+    font-size: 16px;
+}
+.video {
+    text-align: center;
+}
+
+.mid-banner {
+    font-weight: 300;
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.sub-header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;   
+    color: gray;
+    text-align: center; 
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
