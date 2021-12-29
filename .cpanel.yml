@@ -1,7 +1,7 @@
 ---
-#projects/excursion
+#/home/daniecom/public_html/resources/projects/excursion
 deployment:
-  tasks:
+  tasks: 
     - export DEPLOYPATH=/home/daniecom/public_html/resources/projects/excursion
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R resources $DEPLOYPATH
