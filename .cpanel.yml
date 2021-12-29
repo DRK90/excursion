@@ -1,0 +1,8 @@
+---
+#projects/excursion
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/daniecom/public_html/resources/projects/excursion
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp -R resources $DEPLOYPATH
+    
